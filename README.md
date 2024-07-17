@@ -37,4 +37,5 @@ cd src
  - [Electrum Wallet](https://electrum.org/#download)
  - [FreeBTC to test](https://freebitco.in/)
  - [Blockchain](https://www.blockchain.com/explorer)
-
+ - [Mempool](https://mempool.space/pt/)
+ - [Coinfaucet](https://coinfaucet.eu/en/btc-testnet/)
